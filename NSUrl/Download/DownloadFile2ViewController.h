@@ -1,0 +1,13 @@
+//
+//  DownloadFile2ViewController.h
+//  NSUrl
+//
+//  Created by Gwyneth Gan on 17/2/10.
+//  Copyright © 2017年 Gwyneth. All rights reserved.
+//
+
+#import <UIKit/UIKit.h>
+
+@interface DownloadFile2ViewController : UIViewController
+
+@end
